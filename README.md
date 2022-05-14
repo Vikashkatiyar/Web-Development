@@ -11,7 +11,7 @@ Do some fun with HTML
 <p>Hi! My name is Vikash katiyar. I am pursuing B.Tech. Information Technology in ABES ENGINEERING COLLEGE</p>
 
 <p> Click to go to my LinkedIn Profile : </p>
-<a href="https://www.linkedin.com/in/vikash-katiyar-6b44a82">
+<a href="https://www.linkedin.com/in/vikash-katiyar-6b44a8210/">
 	LinkedIn
 </a>
 <p> Click to go to my Leetcode profile : </p>
