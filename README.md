@@ -15,7 +15,7 @@ Do some fun with HTML
 	LinkedIn
 </a>
 <p> Click to go to my Leetcode profile : </p>
-<a href=https://leetcode.com/vikashkatiyar>
+<a href=https://leetcode.com/code_only/>
 	Leetcode
 </a>
 
