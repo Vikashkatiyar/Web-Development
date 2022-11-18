@@ -51,7 +51,7 @@ Do some fun with HTML
 
 	
 
-<h1>=============================================<h1>
+<h1>=====================================<h1>
 #Registration Form
 
 ![Registration form creation](https://user-images.githubusercontent.com/89769715/202767105-6a6c7233-9fbc-4159-a46b-63826cd0f8dc.jpg)
@@ -59,7 +59,7 @@ Do some fun with HTML
 
 	
 	
-<h1>=============================================<h1>
+<h1>=====================================<h1>
 #Fist Hand in HTML
 
 	
